@@ -1,0 +1,17 @@
+Package: gradR
+Title: Theoretical Gradient Descent and Optimization Diagnostic
+        Dashboard
+Version: 1.0.0
+Author: Rachit Jindal
+Maintainer: Rachit Jindal <rachitj24@iitk.ac.in>
+Description: An interactive, educational visualization tool for mathematical 
+    optimization. This package provides a dynamic Shiny dashboard to explore 
+    first-order gradient descent paths, evaluate second-order Hessian 
+    conditions for saddle point diagnostics, and simulate Stochastic Gradient 
+    Descent (SGD) with dynamic learning rate decay.
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.3.3
+Imports: dplyr, ggplot2, plotly, shiny
+NeedsCompilation: no
+Packaged: 2026-04-03 17:41:05 UTC; rajan
